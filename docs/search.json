@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site, provide a tree of links or something"
+  },
+  {
+    "objectID": "defense.html",
+    "href": "defense.html",
+    "title": "The Defense",
+    "section": "",
+    "text": "Details about the defense itself can come here.\nThis can include the link to the livestream and information about the location itself and any other information. We can also make separate pages for the livestream and on-location thing."
+  },
+  {
+    "objectID": "dissertation.html",
+    "href": "dissertation.html",
+    "title": "The Dissertation",
+    "section": "",
+    "text": "Embed a pdf or HTML copy of the dissertation here. ALong with any other information."
+  },
+  {
+    "objectID": "gift-registry.html",
+    "href": "gift-registry.html",
+    "title": "Gift Registry",
+    "section": "",
+    "text": "Link to gift registry or embed an iframe of the gift registry."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "dr-unyoung",
+    "section": "",
+    "text": "Welcome!"
+  },
+  {
+    "objectID": "travel-and-hotels.html",
+    "href": "travel-and-hotels.html",
+    "title": "Travel and Hotels",
+    "section": "",
+    "text": "Information about travel and hotels can come here."
+  }
+]
