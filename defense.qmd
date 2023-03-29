@@ -1,0 +1,9 @@
+---
+title: "The Defense"
+---
+
+Details about the defense itself can come here. 
+
+This can include the link to the livestream and information about the location itself and any other information. We can also make separate pages for the livestream and on-location thing.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9744.08457811443!2d4.8948441!3d52.3700366!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c609c083358d15%3A0x6dc86a0a4f92c701!2sAgnieten%20Chapel!5e0!3m2!1sen!2snl!4v1680090640548!5m2!1sen!2snl" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: ../docs
+
+website:
+  title: "dr-unyoung"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - defense.qmd
+      - dissertation.qmd
+      - gift-registry.qmd
+      - travel-and-hotels.qmd
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+
+
+

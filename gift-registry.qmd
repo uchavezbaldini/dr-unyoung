@@ -1,0 +1,5 @@
+---
+title: "Gift Registry"
+---
+
+Link to gift registry or embed an iframe of the gift registry.
