@@ -1,44 +1,93 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "the-party.html",
+    "href": "the-party.html",
+    "title": "The Party",
     "section": "",
-    "text": "About this site, provide a tree of links or something"
+    "text": "he PhD defense will consist of a ceremony, a short reception, and a celebratory event afterwards. The reception will immediately follow the defense ceremony and will be open to the public (the defense ceremony itself is open to the public). The celebratory event will follow the reception and be private. Food and drinks will be provided during both the reception and celebratory event."
   },
   {
-    "objectID": "defense.html",
-    "href": "defense.html",
-    "title": "The Defense",
-    "section": "",
-    "text": "Details about the defense itself can come here.\nThis can include the link to the livestream and information about the location itself and any other information. We can also make separate pages for the livestream and on-location thing."
+    "objectID": "the-party.html#reception",
+    "href": "the-party.html#reception",
+    "title": "The Party",
+    "section": "Reception",
+    "text": "Reception\n\nDate: 7 June, 2023\nTime: 12:30-13:30 CEST\nPlace: Tetterode Library, Keizersgracht 123, 1015 CJ Amsterdam"
   },
   {
-    "objectID": "dissertation.html",
-    "href": "dissertation.html",
-    "title": "The Dissertation",
-    "section": "",
-    "text": "Embed a pdf or HTML copy of the dissertation here. ALong with any other information."
+    "objectID": "the-party.html#celebratory-event",
+    "href": "the-party.html#celebratory-event",
+    "title": "The Party",
+    "section": "Celebratory Event",
+    "text": "Celebratory Event\n\nDate: 7 June, 2023\nTime: 13:30 - 16:30 CEST\nPlace: Ambassade Hotel, Herengracht 341, 1016 AZ Amsterdam"
   },
   {
-    "objectID": "gift-registry.html",
-    "href": "gift-registry.html",
-    "title": "Gift Registry",
+    "objectID": "the-party.html#rsvp",
+    "href": "the-party.html#rsvp",
+    "title": "The Party",
+    "section": "RSVP",
+    "text": "RSVP\nPlease RSVP for the events here: https://forms.gle/yFBx8MgvUrJ62odw9"
+  },
+  {
+    "objectID": "the-journey.html",
+    "href": "the-journey.html",
+    "title": "The Journey",
     "section": "",
-    "text": "Link to gift registry or embed an iframe of the gift registry."
+    "text": "Completing this PhD has been one of the most challenging journeys I’ve embarked on. Over the course of 4 years, I juggled many responsibilities. I helped recruit patients, self-taught new analyses, wrote up papers, supervised interns, coordinated a department-wide study, and provided my statistical expertise to both colleagues and students. Not to mention, I navigated learning a new language, being far from family, building a new life in a new place, and growing into adulthood. I learned a lot about psychopathology as well as myself. There were many moments of frustration, such as dealing with reviewers comments, and accomplishments, such as getting a manuscript accepted by a journal. It is therefore with pride that I complete this journey. I couldn’t have done it without the support of many, but I also couldn’t have done it without my sheer determination and willpower. In the words of Snoop Dog (hahaha), “I want to thank me. I want to thank me for believing in me. I want to thank me for doing all this hard work.”\nSome of you might be wondering, “what is your PhD about anyway?” Essentially, it is about pushing for a different way of conceptualizing and researching pscychopathology. The current way views disorders as separate categories and focuses on a limited set of symptoms in which that set of symptoms is the disorder. With the approaches I used (the transdiagnostic and network approaches), the idea is that psychopathology is not so naturally organized in discrete categories and arises from an interaction of not only symptoms but numerous other factors, many of which cut across disorders. Ultimately, it calls for a more dynamic, multifactorial, and holistic view of psychopathology, which may lead to better treatments. That’s it in a nutshell!\nLastly, some fun stats of what I did during my PhD:\n\nWrote 5 research articles based on the Across study\nPublished 4 of those research articles\nSupervised 35 interns\nAttended 6 international scientific conferences\nLearned and conducted three types of network analyses\nHad my hair cut and scalp gelled numerous times in the process of training my interns\nImproved my Dutch from B1 to B2/C1"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "dr-unyoung",
     "section": "",
-    "text": "Welcome!"
+    "text": "Welcome! In June, I’ll be defending my PhD and would be delighted to invite you to this momentous occasion. On this website, you can find my thesis, details on the defense and after-party, and other helpful information. I look forward to celebrating with you.\n\n\n\nword cloud of unyoung’s research"
   },
   {
-    "objectID": "travel-and-hotels.html",
-    "href": "travel-and-hotels.html",
-    "title": "Travel and Hotels",
+    "objectID": "the-defense.html",
+    "href": "the-defense.html",
+    "title": "The Defense",
     "section": "",
-    "text": "Information about travel and hotels can come here."
+    "text": "The PhD defense will consist of a ceremony, a short reception, and a celebratory event afterwards. The reception will immediately follow the defense ceremony and will be open to the public (the defense ceremony itself is open to the public). The celebratory event will follow the reception and be private. Food and drinks will be provided during both the reception and celebratory event."
+  },
+  {
+    "objectID": "the-defense.html#defense-ceremony",
+    "href": "the-defense.html#defense-ceremony",
+    "title": "The Defense",
+    "section": "Defense Ceremony",
+    "text": "Defense Ceremony\n\nDate: 7 June, 2023\nTime: 11:00-12:30 CEST\nPlace: Aula of the University of Amsterdam, Singel 411, 1012 WN Amsterdam (Old Lutheran Church)\n\n\n\nLink to Livestream: TBA"
+  },
+  {
+    "objectID": "the-defense.html#reception",
+    "href": "the-defense.html#reception",
+    "title": "The Defense",
+    "section": "Reception",
+    "text": "Reception\n\nDate: 7 June, 2023\nTime: 12:30-13:30 CEST\nPlace: Tetterode Library, Keizersgracht 123, 1015 CJ Amsterdam"
+  },
+  {
+    "objectID": "the-defense.html#celebratory-event",
+    "href": "the-defense.html#celebratory-event",
+    "title": "The Defense",
+    "section": "Celebratory Event",
+    "text": "Celebratory Event\n\nDate: 7 June, 2023\nTime: 13:30 - 16:30 CEST\nPlace: Ambassade Hotel, Herengracht 341, 1016 AZ Amsterdam"
+  },
+  {
+    "objectID": "the-defense.html#rsvp",
+    "href": "the-defense.html#rsvp",
+    "title": "The Defense",
+    "section": "RSVP",
+    "text": "RSVP\nPlease RSVP for the events here: https://forms.gle/yFBx8MgvUrJ62odw9."
+  },
+  {
+    "objectID": "the-defense.html#gifts",
+    "href": "the-defense.html#gifts",
+    "title": "The Defense",
+    "section": "Gifts",
+    "text": "Gifts\nIf you feel inclined to get me a gift, you can view my registry here: https://www.myregistry.com/wishlist/unyoung-utrecht-utrecht/3461596"
+  },
+  {
+    "objectID": "rsvp.html",
+    "href": "rsvp.html",
+    "title": "RSVP",
+    "section": "",
+    "text": "You can RSVP to all the events using the form below.\nhttps://forms.gle/yFBx8MgvUrJ62odw9"
   }
 ]

@@ -8,11 +8,11 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - defense.qmd
-      - dissertation.qmd
-      - gift-registry.qmd
-      - travel-and-hotels.qmd
+      - the-journey.qmd
+      - the-dissertation.qmd
+      - the-defense.qmd
+      - the-party.qmd
+      - rsvp.qmd
 
 format:
   html:

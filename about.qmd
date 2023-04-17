@@ -1,5 +1,0 @@
----
-title: "About"
----
-
-About this site, provide a tree of links or something

@@ -1,5 +1,0 @@
----
-title: "Travel and Hotels"
----
-
-Information about travel and hotels can come here.
