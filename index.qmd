@@ -1,10 +1,11 @@
 ---
-title: "dr-unyoung"
+title: "UnYoung's PhD Defense"
 ---
 
 Welcome! 
+
 In June, I'll be defending my PhD and would be delighted to invite you to this momentous occasion. 
 On this website, you can find my thesis, details on the defense and after-party, and other helpful information. 
 I look forward to celebrating with you.
 
-![word cloud of unyoung's research](assets/wordcloud.jpg)
+![](assets/wordcloud.jpg)

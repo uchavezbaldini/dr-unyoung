@@ -2,7 +2,9 @@
 title: "The Defense"
 ---
 
-The PhD defense will consist of a ceremony, a short reception, and a celebratory event afterwards. The reception will immediately follow the defense ceremony and will be open to the public (the defense ceremony itself is open to the public). The celebratory event will follow the reception and be private. Food and drinks will be provided during both the reception and celebratory event.
+The PhD defense will consist of a ceremony, a short reception, and a celebratory event afterwards. 
+
+This page contains information about the defense itself.  
 
 ## Defense Ceremony
 
@@ -12,28 +14,11 @@ The PhD defense will consist of a ceremony, a short reception, and a celebratory
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9744.465919587203!2d4.8892!3d52.3683079!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c609c193a4380f%3A0xccfdbd1232ff182d!2sAula%20UvA!5e0!3m2!1sen!2snl!4v1681713056048!5m2!1sen!2snl" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
+## Livestream
+
 **Link to Livestream:** TBA
-
-## Reception
-
-- **Date:** 7 June, 2023
-- **Time:** 12:30-13:30 CEST
-- **Place:** Tetterode Library, Keizersgracht 123, 1015 CJ Amsterdam
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9744.227943430533!2d4.8871701!3d52.3693867!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c609c23480cfa3%3A0x6272c1c659de518b!2sAmbassade%20Hotel!5e0!3m2!1sen!2snl!4v1681713130814!5m2!1sen!2snl" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-## Celebratory Event
-
-- **Date:** 7 June, 2023
-- **Time:** 13:30 - 16:30 CEST
-- **Place:** Ambassade Hotel, Herengracht 341, 1016 AZ Amsterdam
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9744.227943430533!2d4.8871701!3d52.3693867!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c609c23480cfa3%3A0x6272c1c659de518b!2sAmbassade%20Hotel!5e0!3m2!1sen!2snl!4v1681713130814!5m2!1sen!2snl" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## RSVP
 
-Please RSVP for the events here: [https://forms.gle/yFBx8MgvUrJ62odw9](https://forms.gle/yFBx8MgvUrJ62odw9).
+Please RSVP for the defense (and other events) on the [RSVP](https://uchavezbaldini.github.io/dr-unyoung/rsvp.html) page.
 
-## Gifts
-
-If you feel inclined to get me a gift, you can view my registry here: [https://www.myregistry.com/wishlist/unyoung-utrecht-utrecht/3461596](https://www.myregistry.com/wishlist/unyoung-utrecht-utrecht/3461596)

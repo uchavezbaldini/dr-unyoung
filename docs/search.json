@@ -4,14 +4,14 @@
     "href": "the-party.html",
     "title": "The Party",
     "section": "",
-    "text": "he PhD defense will consist of a ceremony, a short reception, and a celebratory event afterwards. The reception will immediately follow the defense ceremony and will be open to the public (the defense ceremony itself is open to the public). The celebratory event will follow the reception and be private. Food and drinks will be provided during both the reception and celebratory event."
+    "text": "The after-parties consist of a short reception and a celebratory event afterwards.\nThe reception will immediately follow the defense ceremony and will be open to the public (the defense ceremony itself is open to the public). The celebratory event will follow the reception and be private.\nFood and drinks will be provided during both the reception and celebratory event."
   },
   {
     "objectID": "the-party.html#reception",
     "href": "the-party.html#reception",
     "title": "The Party",
     "section": "Reception",
-    "text": "Reception\n\nDate: 7 June, 2023\nTime: 12:30-13:30 CEST\nPlace: Tetterode Library, Keizersgracht 123, 1015 CJ Amsterdam"
+    "text": "Reception\n\nDate: 7 June, 2023\nTime: 12:30-13:30 CEST\nPlace: Tetterode Library, Singel 425, 1012 WP Amsterdam (part of Amsterdam University Library)"
   },
   {
     "objectID": "the-party.html#celebratory-event",
@@ -25,7 +25,7 @@
     "href": "the-party.html#rsvp",
     "title": "The Party",
     "section": "RSVP",
-    "text": "RSVP\nPlease RSVP for the events here: https://forms.gle/yFBx8MgvUrJ62odw9"
+    "text": "RSVP\nPlease RSVP for the events on the RSVP page."
   },
   {
     "objectID": "the-journey.html",
@@ -37,57 +37,50 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "dr-unyoung",
+    "title": "UnYoung’s PhD Defense",
     "section": "",
-    "text": "Welcome! In June, I’ll be defending my PhD and would be delighted to invite you to this momentous occasion. On this website, you can find my thesis, details on the defense and after-party, and other helpful information. I look forward to celebrating with you.\n\n\n\nword cloud of unyoung’s research"
+    "text": "Welcome!\nIn June, I’ll be defending my PhD and would be delighted to invite you to this momentous occasion. On this website, you can find my thesis, details on the defense and after-party, and other helpful information. I look forward to celebrating with you."
   },
   {
     "objectID": "the-defense.html",
     "href": "the-defense.html",
     "title": "The Defense",
     "section": "",
-    "text": "The PhD defense will consist of a ceremony, a short reception, and a celebratory event afterwards. The reception will immediately follow the defense ceremony and will be open to the public (the defense ceremony itself is open to the public). The celebratory event will follow the reception and be private. Food and drinks will be provided during both the reception and celebratory event."
+    "text": "The PhD defense will consist of a ceremony, a short reception, and a celebratory event afterwards.\nThis page contains information about the defense itself."
   },
   {
     "objectID": "the-defense.html#defense-ceremony",
     "href": "the-defense.html#defense-ceremony",
     "title": "The Defense",
     "section": "Defense Ceremony",
-    "text": "Defense Ceremony\n\nDate: 7 June, 2023\nTime: 11:00-12:30 CEST\nPlace: Aula of the University of Amsterdam, Singel 411, 1012 WN Amsterdam (Old Lutheran Church)\n\n\n\nLink to Livestream: TBA"
+    "text": "Defense Ceremony\n\nDate: 7 June, 2023\nTime: 11:00-12:30 CEST\nPlace: Aula of the University of Amsterdam, Singel 411, 1012 WN Amsterdam (Old Lutheran Church)"
   },
   {
-    "objectID": "the-defense.html#reception",
-    "href": "the-defense.html#reception",
+    "objectID": "the-defense.html#livestream",
+    "href": "the-defense.html#livestream",
     "title": "The Defense",
-    "section": "Reception",
-    "text": "Reception\n\nDate: 7 June, 2023\nTime: 12:30-13:30 CEST\nPlace: Tetterode Library, Keizersgracht 123, 1015 CJ Amsterdam"
-  },
-  {
-    "objectID": "the-defense.html#celebratory-event",
-    "href": "the-defense.html#celebratory-event",
-    "title": "The Defense",
-    "section": "Celebratory Event",
-    "text": "Celebratory Event\n\nDate: 7 June, 2023\nTime: 13:30 - 16:30 CEST\nPlace: Ambassade Hotel, Herengracht 341, 1016 AZ Amsterdam"
+    "section": "Livestream",
+    "text": "Livestream\nLink to Livestream: TBA"
   },
   {
     "objectID": "the-defense.html#rsvp",
     "href": "the-defense.html#rsvp",
     "title": "The Defense",
     "section": "RSVP",
-    "text": "RSVP\nPlease RSVP for the events here: https://forms.gle/yFBx8MgvUrJ62odw9."
-  },
-  {
-    "objectID": "the-defense.html#gifts",
-    "href": "the-defense.html#gifts",
-    "title": "The Defense",
-    "section": "Gifts",
-    "text": "Gifts\nIf you feel inclined to get me a gift, you can view my registry here: https://www.myregistry.com/wishlist/unyoung-utrecht-utrecht/3461596"
+    "text": "RSVP\nPlease RSVP for the defense (and other events) on the RSVP page."
   },
   {
     "objectID": "rsvp.html",
     "href": "rsvp.html",
     "title": "RSVP",
     "section": "",
-    "text": "You can RSVP to all the events using the form below.\nhttps://forms.gle/yFBx8MgvUrJ62odw9"
+    "text": "You can RSVP to all the events using the form below:\n\nLoading…\n\nIf the embedded form above doesn’t work, please use the following link: https://forms.gle/yFBx8MgvUrJ62odw9"
+  },
+  {
+    "objectID": "rsvp.html#gifts",
+    "href": "rsvp.html#gifts",
+    "title": "RSVP",
+    "section": "Gifts",
+    "text": "Gifts\nIf you feel inclined to get me a gift, you can view my registry here: https://www.myregistry.com/wishlist/unyoung-utrecht-utrecht/3461596"
   }
 ]

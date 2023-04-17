@@ -2,7 +2,14 @@
 title: "RSVP"
 ---
 
-You can RSVP to all the events using the form below.
+## Form
 
-[https://forms.gle/yFBx8MgvUrJ62odw9](https://forms.gle/yFBx8MgvUrJ62odw9)
+You can RSVP to all the events using the form below:
 
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeclAG01Qj3pQixTOTQxcGBpmGd2uwC3dw3n4-N1xLd2z-1nw/viewform?embedded=true" width="640" height="1260" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+If the embedded form above doesn't work, please use the following link: [https://forms.gle/yFBx8MgvUrJ62odw9](https://forms.gle/yFBx8MgvUrJ62odw9)
+
+## Gifts
+
+If you feel inclined to get me a gift, you can view my registry here: [https://www.myregistry.com/wishlist/unyoung-utrecht-utrecht/3461596](https://www.myregistry.com/wishlist/unyoung-utrecht-utrecht/3461596)
